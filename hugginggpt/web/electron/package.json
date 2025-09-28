@@ -1,13 +1,3 @@
-{
-  "name": "chatgpt",
-  "version": "1.0.0",
-  "main": "main.js",
-  "scripts": {
-    "dev": "electron .",
-    "build": "electron-builder"
-  },
-  "devDependencies": {
-    "electron": "^23.1.0",
-    "electron-builder": "^23.6.0"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3399f537d0dd30fbd60b35223003cf676785e61011989b8c52a313c57cf77e08
+size 232

@@ -1,7 +1,7 @@
 openai: 
-  api_key: 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
+  api_key:REPLACE_WITH_YOUR_OPENAI_API_KEY_HERE
 huggingface:
-  token: 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 # required: huggingface token @ https://huggingface.co/settings/tokens
+  token:REPLACE_WITH_YOUR_HUGGINGFACE_TOKEN_HERE # required: huggingface token @ https://huggingface.co/settings/tokens
 dev: false
 debug: false
 log_file: logs/debug.log

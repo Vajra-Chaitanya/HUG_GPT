@@ -1,17 +1,3 @@
-{
-  "extends": "@vue/tsconfig/tsconfig.web.json",
-  "include": ["env.d.ts", "src/**/*", "src/**/*.vue"],
-  "compilerOptions": {
-    "baseUrl": ".",
-    "paths": {
-      "@/*": ["./src/*"]
-    },
-    "resolveJsonModule": true
-  },
-
-  "references": [
-    {
-      "path": "./tsconfig.config.json"
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5254a65e3fbbafc6159e6e82d8ee459755c935422c322b57b84b59c698e61ba5
+size 306

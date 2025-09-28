@@ -27,3 +27,4 @@
 {"input": "what all u can do", "task": [], "reason": "task parsing fail: empty", "op": "chitchat"}
 {"input": "nice totalk to you", "task": [], "reason": "task parsing fail: empty", "op": "chitchat"}
 {"input": "time?", "task": [], "reason": "task parsing fail: empty", "op": "chitchat"}
+{"input": "hi", "task": [], "reason": "task parsing fail: empty", "op": "chitchat"}

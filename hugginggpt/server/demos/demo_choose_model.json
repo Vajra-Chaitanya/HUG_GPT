@@ -1,10 +1,3 @@
-[
-    {
-        "role": "user",
-        "content": "{{input}}"
-    },
-    {
-        "role": "assistant",
-        "content": "{{task}}"
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:048d684b4e262ef7cfe75db20202b2b8a4abde36fe387c77f0afb78d40de1243
+size 142
